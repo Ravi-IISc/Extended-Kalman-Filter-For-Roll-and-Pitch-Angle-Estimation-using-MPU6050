@@ -1,0 +1,2 @@
+# Extended-Kalman-Filter-For-Roll-and-Pitch-Angle-Estimation-using-MPU6050
+The EKF extends the capabilities of the Kalman Filter to handle nonlinear systems, making it widely used in applications such as navigation, robotics, and time-series analysis. In this article, MPU6050 sensor is used for estimating roll and pitch angles estimation because this sensor serves as accelerometer and rate gyro sensor.
